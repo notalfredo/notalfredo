@@ -5,6 +5,7 @@
 Hello my name is Alfredo , I am currently enrolled at the University of Texas at Arlington studying Computer Science.
 
 📟 Languages: C/C++ , Rust , Python , Java 
+
 ✉️ Reach me at icealfredo123@gmail.com
 
 
