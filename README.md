@@ -1,6 +1,4 @@
-### Hi there 👋
-
-📡 Howdy!
+### 📡 Howdy!
 
 Hello my name is Alfredo , I am currently enrolled at the University of Texas at Arlington studying Computer Science.
 
