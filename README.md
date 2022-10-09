@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Check out my DevPost !
 https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
