@@ -29,3 +29,30 @@ Here are some ideas to get you started:
 
 Check out my DevPost !
 https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+
+## Hackathons
+ - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@neoncitylights](https://github.com/neoncitylights), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
+ 
+ - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@neoncitylights](https://github.com/neoncitylights), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
+ 
+  - [**hackUTA 2022**](https://github.com/notalfredo/hackUtaMeowScript.git): Created Source My SMS with [@ThatBooRadley](https://github.com/ThatBooRadley), and Trinh Le, a application that allows people to send code vida sms and run it real time.
+ 
+  
+  - [**hackUNT 2022**](https://github.com/hotchelle/BiddingApp) (): Created Source My SMS with [@Cosder](https://github.com/ThatBooRadley), and Trinh Le, a application that allows people to send code vida sms and run it real time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
