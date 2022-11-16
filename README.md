@@ -38,7 +38,7 @@ https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&
   - [**hackUTA 2022**](https://github.com/notalfredo/hackUtaMeowScript.git): Created Source My SMS with [@ThatBooRadley](https://github.com/ThatBooRadley), and Trinh Le, a application that allows people to send code vida sms and run it real time.
  
   
-  - [**hackUNT 2022**](https://github.com/hotchelle/BiddingApp) (): Created Source My SMS with [@Cosder](https://github.com/ThatBooRadley), [@hotchelle](https://github.com/hotchelle), and [@proDustin](https://github.com/proDustin), a mobile and smart watch application that lets you place bets on sports games using crypto currency.
+  - [**hackUNT 2022**](https://github.com/hotchelle/BiddingApp) (First place for HCL Challenge 2): Created Source My SMS with [@Cosder](https://github.com/ThatBooRadley), [@hotchelle](https://github.com/hotchelle), and [@proDustin](https://github.com/proDustin), a mobile and smart watch application that lets you place bets on sports games using crypto currency.
 
  
  
