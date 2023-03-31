@@ -38,3 +38,5 @@ https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&
  - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@neoncitylights](https://github.com/neoncitylights), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
  
   - [**hackUTA 2022**](https://github.com/notalfredo/hackUtaMeowScript.git): Created Source My SMS with [@ThatBooRadley](https://github.com/ThatBooRadley), and Trinh Le, a application that allows people to send code via sms and run it real time.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalfredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
