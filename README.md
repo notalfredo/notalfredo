@@ -2,7 +2,7 @@
 
 Hello my name is Alfredo , I am currently enrolled at the University of Texas at Arlington studying Computer Science.
 
-📟 Languages: C/C++, Rust, Python, Java 
+📟 Languages: C/C++, Rust, Python, Java, Swift
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalfredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
