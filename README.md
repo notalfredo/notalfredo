@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my [DevPost](https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+Check out my [DevPost](https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) !
+
+## Current Projects 
+Graphics-rs an open source 3d graphics library written in rust [link](https://github.com/graphics-rs)
+NLP-rs an open source NLP library written in rust [link](https://github.com/nlp-rs)
 
 ## Hackathons
  - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@neoncitylights](https://github.com/neoncitylights), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
