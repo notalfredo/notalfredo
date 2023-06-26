@@ -6,7 +6,6 @@ Hello my name is Alfredo , I am currently enrolled at the University of Texas at
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalfredo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notalfredo&size_weight=0.5&count_weight=0.5)
 
 ✉️ Reach me at icealfredo123@gmail.com
 
