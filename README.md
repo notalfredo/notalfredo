@@ -13,8 +13,6 @@ Hello my name is Alfredo , I am currently enrolled at the University of Texas at
 
 
 
-
-
 <!--
 **notalfredo/notalfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 Check out my [DevPost](https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) !
 
 ## Current Projects 
-- **Graphics-rs** an open source 3d graphics library written in rust [link](https://github.com/graphics-rs)
+- **matrix-transformations-rs** an open source linear algebra library written in rust [link](https://github.com/notalfredo/matrix-transformations)
 - **NLP-rs** an open source NLP library written in rust [link](https://github.com/nlp-rs)
 
 ## Hackathons
