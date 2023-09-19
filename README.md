@@ -2,6 +2,8 @@
 
 Hello my name is Alfredo , I am currently enrolled at the University of Texas at Arlington studying Computer Science.
 
+I am particularly interested in algorithm design, programming language design, compiler design, hardware optimizations (related to compiler design), the gap between theoretical time complexity and practice, computer graphics, robotics, computer vision.
+
 📟 Languages: C/C++, Rust, Python, Java, Typescript, Swift
 
 
