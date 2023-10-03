@@ -2,7 +2,7 @@
 
 My name is Alfredo , I am currently enrolled at the University of Texas at Arlington studying Computer Science.
 
-In Computer Science I am particulary interested in algorithm design, the gap between theoretical time complexity and practice, programming language design, compiler design, hardware optimizations (related to compiler design), operating sytems, computer graphics, roboitcs
+In Computer Science I am particulary interested in algorithm design, programming language design, compiler design, hardware optimizations (relating to compiler design), operating sytems, computer graphics, robotics.
 
 📟 Languages: C/C++, Rust, Python, Java, Typescript, Swift
 
@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 -->
 
 Check out my [DevPost](https://devpost.com/notalfredo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) !
+
+Check out my [website](http://alfredo.uta.cloud/) !
+
 
 ## Current Projects 
 - **matrix-transformations-rs** an open source linear algebra library written in rust [link](https://github.com/notalfredo/matrix-transformations)
