@@ -1,6 +1,6 @@
 ### 📡 Howdy!
 
-My name is Alfredo, I studied Computer Science at the University of Texas at Arlington 23. 
+My name is Alfredo, I studied Computer Science at the University of Texas at Arlington I graduated Fall 2023. 
 
 In Computer Science I am particularly interested in 
 - Programming language design
